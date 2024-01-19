@@ -1,0 +1,22 @@
+{
+  "name": "asharib-wds",
+  "version": "1.0.0",
+  "description": "is the string WDS?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AsharibAli/is-wds-pac.git"
+  },
+  "keywords": [
+    "WDS"
+  ],
+  "author": "asharib",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AsharibAli/is-wds-pac/issues"
+  },
+  "homepage": "https://github.com/AsharibAli/is-wds-pac#readme"
+}
